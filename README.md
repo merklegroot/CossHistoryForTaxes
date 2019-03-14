@@ -1,10 +1,13 @@
 # Coss 2018 History Script
 
+## Known Issues
+Withdrawal fees aren't included in the CSV.
+Neither the API nor the website currently provides the withdrawal fees in the history.
+
 ## Abstract
 Coss's website will let you download trade and transaction history.  
 However, this forces you to download multiple CSVs and combine them.  
-Additionally, it doesn't currently include the witdrawal fees.  
-  
+
 The API doesn't give you the trade fees and doesn't provide a mechanism at all for getting transactions.  
   
 It's tax time and that data is needed now.  
