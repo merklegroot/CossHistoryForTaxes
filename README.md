@@ -21,8 +21,10 @@ Log in to Coss on Chrome (probably works on other browsers too, but I haven't te
 Open the Chrome Dev Tools by hitting F12.  
 Select the Console tab.  
 Copy the script and paste the entire thing in.  
-Wait a bit (it took about 15 seconds for me).  
-  
+Wait a bit. The amount of time will vary greatly depending on how much you've traded.
+I have it set to wait just over a second between reading each history page.
+If you have a lot of history, that time adds up quickly.
+
 A CSV file should automatically download.  
 If it doesn't, check your pop-up blocker settings.  
 
